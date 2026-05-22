@@ -1,0 +1,5 @@
+# Telegram Extractor Bot — Requirements
+# Install: pip install -r requirements.txt --break-system-packages
+
+python-telegram-bot[http2]==21.6
+httpx[http2]==0.27.2
